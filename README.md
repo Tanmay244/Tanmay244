@@ -15,13 +15,13 @@
 
 ### Languages and Tools:
 
-- [<img align="left" alt="Tensorflow" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" />][Github] Tensorflow
-- [<img align="left" alt="OpenCV" width="26px" src="https://i.stack.imgur.com/ez8QV.png" />][Github] OpenCV
-- [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Github] Python
-- [<img align="left" alt="R" width="26px" src="https://miro.medium.com/max/4000/1*BgoeftOFRdO7g8F3O1eXSQ.png" />][Github] R Programming
-- [<img align="left" alt="Arduino" width="26px" src="https://i.pinimg.com/originals/4e/7b/62/4e7b62b98915dbd4565098269ddc43cd.png" />][Github] Arduino
-- [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github] Github
-- [<img align="left" alt="C++" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />][Github] C++
+- [<img align="left" alt="Tensorflow" width="20px" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" />][Github] Tensorflow
+- [<img align="left" alt="OpenCV" width="20px" src="https://i.stack.imgur.com/ez8QV.png" />][Github] OpenCV
+- [<img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Github] Python
+- [<img align="left" alt="R" width="20px" src="https://miro.medium.com/max/4000/1*BgoeftOFRdO7g8F3O1eXSQ.png" />][Github] R Programming
+- [<img align="left" alt="Arduino" width="20px" src="https://i.pinimg.com/originals/4e/7b/62/4e7b62b98915dbd4565098269ddc43cd.png" />][Github] Arduino
+- [<img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github] Github
+- [<img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" />][Github] C++
 
 [Github]: https://github.com/Tanmay244
 
