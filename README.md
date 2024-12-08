@@ -1,16 +1,22 @@
 # Hi there 👋, This is Tanmay Agrawal
-## I am a Machine Learning practitioner.
-### Currently undergoing my Junior year of B.Tech. (Computer Science and Engineering) at SRM Institute of Science and Technology, Chennai.
-### Passionate, Enthusiast and Proﬁcient to learn new skills and technologies in the field of Machine Learning using Python and R Language.
+## Software Engineer at KORE.AI | Former Research Intern at SAMSUNG | Ex Machine Learning Intern at SIEMENS
 
+### Aspiring to advance expertise in Computer Science and AI technologies, conduct impactful research, and develop innovative solutions that address real-world challenges, while contributing to the academic and professional AI community.
 
 ![5357b5b77a0f80c](https://user-images.githubusercontent.com/56449549/89924943-a7c81200-db8d-11ea-8b65-079f353c9d19.jpg)
 
+### Motivated and astute, eager to learn new skills and technologies. Adaptive in approach, swift in thinking, hungry for knowledge, and ardent to innovate new things in the field of Software Development and Machine Learning. With a handy grip over programming languages, currently working as a Software Engineer in AI / ML / NLP, Prompt Engineering, and backend development.
+
 ---
 
-- 🔭 Working on various ML and DL projects.
-- 🌱 Learning profus concepts on Deep Learning and Artificial Intelligence.
-
+- 🔭 Working on cutting edge AI technologies at Kore.ai
+- 🌱 Spotlight Award holder for being a stellar performer and creating a visible impact at Kore.ai
+- 🔭 Ex- SAMSUNG PRISM Research Intern
+- 🌱 Ex- Machine Learning Intern at SIEMENS
+- 🔭 Research Paper Publication in IEEE and UGC CARE Peer Reviewed International Journal
+- 🌱 Excelled in CSE department with a CGPA of 9.89 out of 10
+- 🔭 SRMJEEE Merit Scholarship Holder (25% tuition fee waiver) (Sum of INR 2,50,000)
+- 🌱 Ex Lead Programmer at SRM Team ROBOCON
 ---
 
 ### Languages and Tools:
