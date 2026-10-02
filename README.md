@@ -1,5 +1,5 @@
 # Hi there 👋, This is Tanmay Agrawal
-## MS in Computer Science @ Columbia University | Former Software Engineer at KORE.AI | Former Research Intern at SAMSUNG | Ex Machine Learning Intern at SIEMENS
+## SDE Intern at Amazon | MS in Computer Science @ Columbia University | Former Software Engineer at KORE.AI | Former Research Intern at SAMSUNG | Ex Machine Learning Intern at SIEMENS
 
 ### Motivated and eager to learn new skills and technologies, and deep passion for innovation in the fields of Software Development, Artificial Intelligence and Machine Learning.
 ### With a strong foundation in Python, C++, and backend development, I am currently pursuing my Master of Science in Computer Science at Columbia University, specializing in AI and ML, and actively seeking Summer 2026 internship opportunities in AI / ML / NLP / Generative AI (LLMs) / Agentic AI and Software Engineering.
